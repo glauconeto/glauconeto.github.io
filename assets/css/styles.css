@@ -93,13 +93,13 @@ p {
     height: 800px;
     width: 100%;
     min-height: 500px;
-    margin-left: -2px;
+    margin-left: 5px;
     margin-right: -40px;
 }
 
-.tm-about-bg { background-image: url(../../images/new-vision-02.jpg); }
-.tm-services-bg { background-image: url(../../images/new-vision-03.jpg); }
-.tm-contact-bg { background-image: url(../../images/new-vision-04.jpg); }
+.tm-about-bg { background-image: url(../../images/nossa-empresa-principal.jpeg); }
+.tm-services-bg { background-image: url(../../images/servicos-principal.jpeg); }
+.tm-contact-bg { background-image: url(../../images/contato-principal.jpeg); }
 
 @media (max-width: 992px) {
     .tm-contact-bg { background-position: 80% top; }
