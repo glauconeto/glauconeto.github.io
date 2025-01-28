@@ -31,13 +31,13 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: glauconeto
-  email: example@domain.com # change to your email address
+  name: Glauco Neto
+  email: glauconeto@tutanota.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/glauconeto # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.linkedin.com/in/username
+    - https://mastodon.social/@glauco_neto64
 
 # Site Verification Settings
 webmaster_verifications:
