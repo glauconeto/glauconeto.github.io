@@ -1,7 +1,7 @@
 ---
 title: Nos Matamos Constantemente
 author: Glauco Neto
-date: 2022-06-27 08:00:00 -0300
+date: 2022-06-27 05:00:00 -0300
 categories: [Blog]
 tags: [opiniao]
 ---
