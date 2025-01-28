@@ -14,7 +14,7 @@ timezone: America/Sao_Paulo
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Pensamentos de Glauco Netp # the main title
+title: Pensamentos de Glauco Neto # the main title
 
 tagline: Meu Blog pessoal # it will display as the subtitle
 
@@ -142,7 +142,7 @@ pwa:
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
-paginate: 10
+paginate: 7
 
 # The base URL of your site
 baseurl: ""
