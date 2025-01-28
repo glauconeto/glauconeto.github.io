@@ -1,9 +1,9 @@
 ---
-title: Customize the Favicon
-author: cotes
-date: 2019-08-11 00:34:00 +0800
-categories: [Blogging, Tutorial]
-tags: [favicon]
+title: Nos Matamos Constantemente
+author: Glauco Neto
+date: 2022-06-27 08:00:00 -0300
+categories: [Blog]
+tags: [opiniao]
 ---
 
 # Nos Matamos Constantemente
