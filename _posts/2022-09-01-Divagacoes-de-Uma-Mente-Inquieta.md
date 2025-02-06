@@ -5,8 +5,6 @@ date: 2022-09-01 05:00:00 -0300
 tags: [reflexao]
 ---
 
-# Divagações de Uma Mente Inquieta
-
 &nbsp;&nbsp;&nbsp;&nbsp;Com tanto tempo sobrando, percebo o quanto ele me é necessário. Não porque comumente
 pensamos que ele passa rápido ou porque até mesmo não o percebemos. Mas também inteiramente
 ele nos conta algo, como uma história para dormir. Até mesmo não apenas histórias, mas fatos.

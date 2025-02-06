@@ -5,8 +5,6 @@ date: 2022-10-28 05:00:00 -0300
 tags: [sexualidade, introspeccao]
 ---
 
-# Movimento(s)
-
 &nbsp;&nbsp;&nbsp;&nbsp;Não tenho muito o que escrever, mas sei que preciso escrever. Nunca entendi muito bem o
 ódio e a aversão ao diferente, sempre tive uma curiosidade pelas coisas diferentes. Nunca via nada
 com medo nem ódio. O que me aborrece é a intolerância e todo ódio ao redor do mundo.

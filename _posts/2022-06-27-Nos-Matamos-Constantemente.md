@@ -5,8 +5,6 @@ date: 2022-06-27 05:00:00 -0300
 tags: [opiniao]
 ---
 
-# Nos Matamos Constantemente
-
 &nbsp;&nbsp;&nbsp;&nbsp;A grave constatação do dia a dia é que, de uma forma ou de outra, nós vamos morrer. Sinto por te que iniciar dessa forma, mas não há outra maneira de iniciar esse diálogo. Me sinto infeliz só de ter que expor a realidade compreendida aqui, mas é chegada a hora de expormos tudo aquilo que mantemos preso dentro de nós.
 
 &nbsp;&nbsp;&nbsp;&nbsp;O mundo está caótico, mais do que já esteve, e infelizmente, não há uma luz no fim do túnel que resolva como num passe de mágica. E mesmo assim, sobrevivemos um dia de cada vez sem saber se terá um amanhã. Eu poderia focar em um assunto só, para então (talvez) apontar (a) solução. Mas seria hipérbole demais dizer a resolução de um problema que já está há tanto tempo, com uma
