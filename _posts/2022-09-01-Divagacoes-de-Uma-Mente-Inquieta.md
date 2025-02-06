@@ -2,7 +2,6 @@
 title: Divagações de Uma Mente Inquieta
 author: Glauco Neto
 date: 2022-09-01 05:00:00 -0300
-categories: [Blog]
 tags: [reflexao, ]
 ---
 
