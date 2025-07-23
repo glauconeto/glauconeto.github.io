@@ -1,7 +1,7 @@
 ---
 title: Você Já Pensou Hoje?
 author: Glauco Neto
-date: 2025-07-22 20:40:00 -0300
+date: 2025-07-22 20:40:00
 tags: [opiniao, reflexao]
 ---
 
