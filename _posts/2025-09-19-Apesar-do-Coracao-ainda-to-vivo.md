@@ -1,7 +1,7 @@
 ---
 title: Apesar do Coração Ainda Tô Vivo
 author: Glauco Neto
-date: 2025-09-19 13:35:00 -0300
+date: 2025-09-19 16:35:00 -0300
 tags: [sentimentos, desabafo]
 ---
 
