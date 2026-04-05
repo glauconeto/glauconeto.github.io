@@ -17,7 +17,7 @@ Um dos motivos para entender os demônios, me chamou atenção, e foi o que me c
 
 &nbsp;&nbsp;&nbsp;&nbsp;A minha maior questão é achar que eu precisava de momentos sexuais a todo momento, cada semana alguns aqui, alguns ali. Mas isso só me faria trocar uma compulsão por outra. Porém, compreendendo esse dilema de outra perspectiva, eu sempre quis conhecer as pessoas por quem são, não por momentos, performances que eu poderia ter em um sexo. Mas, ainda pretendo conhecer pessoas diferentes, conhecer suas vivências, suas histórias, e aprender com isso, atribuo isso a minha orientação sexual, mas provavelmente vem de mim também, essencialmente.
 
-<h3>Sexo não é tudo nessa vida, e eu nunca mais, vou permitir que a pornografia dite minha vida.</h3>
+<h3>Sexo não é tudo nessa vida, e eu nunca mais vou permitir que a pornografia dite minha vida.</h3>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Com isso, consigo dizer, que sou muito feliz hoje, mais do que nunca estive. Me sinto mais realizado, mais contente, mais satisfeito. Um passo de cada vez, a gente chega lá. Uma dica primordial: você só consegue iniciar a recuperação de um vício, a partir do momento que quer parar com ele. Antes disso, você se sentirá "confortável demais" a conviver com ele. Entender esse princípio, irá te libertar mais do que você imagina.
 
