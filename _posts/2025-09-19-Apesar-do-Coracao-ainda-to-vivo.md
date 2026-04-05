@@ -24,8 +24,8 @@ Aqui vai uma lista de músicas que ouvi nos últimos dias, que nos tempos ruins,
 
 1. [O Fim das tentativas - Rico Dalasam part. Tuyo](https://www.youtube.com/watch?v=420f_TAIT9o)
 2. [Cacos de Vidro - BK’ part. Evinha](https://www.youtube.com/watch?v=u4oj_p9r-J4)
-3. [Famous Last Words - My Chemical Romance](https://www.youtube.com/watch?v=8bbTtPL1jRs) - Porque em alguns momentos, eu também sou emo rs
-4. [Não me Manda Mensagem - L7nnon](https://www.youtube.com/watch?v=oBF4gLSfgM8) - L7 sempre traduzindo o que o coração sente
-5. [Sorrisos - L7nnon part. Lourena](https://www.youtube.com/watch?v=NgSbod_E3Hs) - Essa parte o coração...
-6. [Sofrer por Amor - Zeus](https://www.youtube.com/watch?v=H5tnc1umQ20) - Já não sei...
-7. [Acorde a Cidade - Dona Cislene](https://www.youtube.com/watch?v=lX0hUxxr2-Q) - Pra aumentar o ânimo
+3. [Famous Last Words - My Chemical Romance](https://www.youtube.com/watch?v=8bbTtPL1jRs)
+4. [Não me Manda Mensagem - L7nnon](https://www.youtube.com/watch?v=oBF4gLSfgM8)
+5. [Sorrisos - L7nnon part. Lourena](https://www.youtube.com/watch?v=NgSbod_E3Hs)
+6. [Sofrer por Amor - Zeus](https://www.youtube.com/watch?v=H5tnc1umQ20)
+7. [Acorde a Cidade - Dona Cislene](https://www.youtube.com/watch?v=lX0hUxxr2-Q)

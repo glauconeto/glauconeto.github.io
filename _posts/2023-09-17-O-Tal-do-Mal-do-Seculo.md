@@ -1,5 +1,5 @@
 ---
-title: O Tal do Mal do Seculo
+title: Mal do Seculo
 author: Glauco Neto
 date: 2023-09-17 05:00:00 -0300
 tags: [sexualidade, introspeccao]
