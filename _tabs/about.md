@@ -4,6 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+<<<<<<< HEAD
 ## Olá, me chamo Glauco, e este é o meu blog! 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Depois de algumas tentativas e chateações, consegui finalmente criar um blog. O template é ótimo, e estou gostando muito de editar nele.
@@ -21,3 +22,7 @@ Eu curto:
 * Terror / Horror
 * Tecnologia: desenvolvimento de sistemas
 * Natureza, ecologia
+=======
+> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+{: .prompt-tip }
+>>>>>>> v7.6.0
